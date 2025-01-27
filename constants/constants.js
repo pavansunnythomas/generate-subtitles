@@ -33,6 +33,7 @@ const modelsArray = [
   {name: 'Medium (English Only)', value: 'medium.en'},
   {name: 'Medium', value: 'medium'},
   {name: 'Large', value: 'large'},
+  {name: 'Turbo', value: 'turbo'}
 ];
 
 // available models in Libretranslate
